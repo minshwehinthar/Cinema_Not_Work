@@ -1,0 +1,39 @@
+.music-box{
+    width:300px;
+    height: 150px;
+    border: 1px solid #ff9900;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #f9f4f4;
+    transition-duration: 600ms;
+}
+
+.music-box:hover{
+    background-color: #ebe9e9;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 7px #ff9900;
+}
+
+.music-main-box{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+
+
+.music-control{
+    display: flex;
+    justify-content: space-around;
+}
+
+.music-box-left{
+    width:88px;
+    border: 2px solid #ff9900;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.singer{
+    width: 100%;
+    
+}

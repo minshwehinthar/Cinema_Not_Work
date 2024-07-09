@@ -1,0 +1,39 @@
+.ballBgImage{
+    background-image: url("../../image/sport/footballBG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+
+.matchTeam{
+    width: 80px;
+}
+
+.football-match-box{
+    width: 300px;
+    height: 110px;
+    border: 1px solid #ff9900;
+    background-color: #f3eded;
+    border-radius: 10px;
+    transition-duration: 600ms;
+}
+}
+
+.relative{
+    position: relative;
+}
+
+.football-match-box:hover{
+    
+    background-color: #e0dddd;
+    transform: scale(1.1);
+    box-shadow: 0 0 7px #ff9900;
+}
+.absolute{
+    position: absolute;
+}
+
+.sport-ronaldo-messi{
+    width: 400px;
+}
+

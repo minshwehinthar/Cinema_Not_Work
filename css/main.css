@@ -1,0 +1,19 @@
+@import url("./conponent/slideshow.css");
+@import url("./conponent/login.css");
+@import url("./conponent/header.css");
+@import url("./global.css");
+@import url("./conponent/menu.css");
+@import url("./conponent/movies.css");
+@import url("./conponent/music.css");
+@import url("./conponent/sports.css");
+@import url("./conponent/footer.css");
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+  *{
+    font-family: 'Courgette', cursive;
+
+
+  }
+
+  

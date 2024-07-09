@@ -1,0 +1,142 @@
+.textCenter{
+    text-align: center;
+}
+
+.titleColor{
+    color: #ff9900;
+}
+
+.textwhite{
+    color: white;
+}
+
+.pad20{
+    padding: 20px 50px;
+}
+
+.pad2{
+    padding-top: 2px;
+}
+
+.mgb5{
+    margin-bottom: 5px;
+}
+
+.mgb30{
+    margin-bottom: 30px;
+}
+
+.mgb20{
+    margin-bottom: 20px;
+}
+
+.mgb100{
+    margin-bottom: 100px;
+}
+
+.mgb0{
+    margin-bottom: 0;
+}
+
+.color{
+    color: #ff9900;
+    height:20px
+}
+.pt20{
+    padding-top: 20px;
+}
+
+.mgt50{
+    margin-top: 50px;
+}
+.padb{
+    padding-bottom: 10px;
+}
+.padding{
+    padding: 10px;
+}
+.mgauto{
+    margin: auto;
+}
+
+.pad50{
+    padding: 50px;
+}
+
+
+
+.flex-col-stretch{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.flexRow{
+    display: flex;
+    flex-direction: row;
+}
+
+.flexCol{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-d{
+    text-decoration: none;
+}
+
+.overflow{
+    overflow: hidden;
+    width: 100%;
+}
+
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    border: 1px solid #ff9900;
+    padding: 7px 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    background-color: #ff9900 ;
+    border-radius: 7px;
+    transition-duration: 600ms;
+}
+
+.btn:hover{
+    border-color: #b36b00;
+    background-color: #b36b00;
+}
+
+.main-all{
+    width: 100%;
+    padding: 0px 100px;
+    margin-bottom: 100px;
+ 
+}
+
+.font7{
+    font-size: 8px;
+    text-align: center;
+}
+
+.flex-movie-home{
+    display: flex;
+    justify-content: space-around;
+}
+
+.font12{
+    font-size: 12px;
+    text-align: center;
+    padding-left: 5px;
+}
+
